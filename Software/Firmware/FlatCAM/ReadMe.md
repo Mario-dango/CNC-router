@@ -59,10 +59,9 @@ Para ver cómo actuará la CNC, copia el G-Code en [NCViewer](https://ncviewer.c
 - **Number of Bridges**: Número de puentes para sujetar la placa.
 - **Bridges Depth**: Aproximadamente la mitad del grosor de la placa.
 
-### Configuración del Firmware
-1. **Modificar Firmware**: Ajusta el firmware de Arduino CNC para integrar con el autómata.
-
 ### Recursos Útiles
 - [FlatCAM Manual](http://flatcam.org/manual/procedures.html)
 - [GRBL GitHub](https://github.com/gnea/grbl)
 - [Configuración de GRBL](https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.9)
+- [G-CODE](https://machmotion.com/downloads/GCode/Mach4-G-and-M-Code-Reference-Manual.pdf)
+- [GERBER](https://www.ucamco.com/files/downloads/file_en/81/the-gerber-file-format-specification_en.pdf?834337316a7d266ef3ab3d03cff55fc0)
