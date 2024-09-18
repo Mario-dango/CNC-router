@@ -2,11 +2,11 @@
 
 ## Qué es FLATCAM
 
-FlatCAM es una aplicación para preparar diseños de circuitos impresos para ser fabricados en una enrutadora CNC. Entre otros, puede generar G-Code para enrutamiento de aislamiento a partir de archivos Gerber generados en aplicaciones de CAD para circuitos impresos favoritos.
+FlatCAM es una aplicación para preparar diseños de circuitos impresos para ser fabricados en una enrutadora CNC. Entre otros, puede generar G-Code para enrutamiento de aislamiento a partir de archivos Gerber generados en aplicaciones de CAD(KiCAD en nuestro caso) para circuitos impresos favoritos.
 
 ## Cómo importar archivos GERBER
 
-Dentro de files, en Open Gerber se seleccionan los archivos ya exportados de KiCad, comúnmente sus layers F_Cu.gbr o B_Cu.gbr.
+Dentro de files, en Open Gerber se seleccionan los archivos ya exportados de KiCad, específicamente sus layers F_Cu.gbr o B_Cu.gbr.
 Luego se deberá seleccionar el apartado de Open Excellon y de allí el archivo terminado en PTH.drl.
 
 ## Generación de G-CODE
