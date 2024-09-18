@@ -39,6 +39,16 @@ El MOC3020 proporciona aislamiento entre el circuito de control de bajo voltaje 
   
 ## PCB
 ![image](https://github.com/user-attachments/assets/6b0cd7a1-25a2-4873-a320-1d5beb2c02fa)
+Esta pcb es la segunda versión, dado que la anterior era más grande de lo que quería.
+
+
+Adjunto ahora el trazado de la pcb para su realización:
+![image](https://github.com/user-attachments/assets/9bc09f13-14ab-4d34-bded-ecd043558294)
+
+[IntentoFinalSSR.pdf](https://github.com/user-attachments/files/17043709/IntentoFinalSSR.pdf)
+
+
+
 
 
 
