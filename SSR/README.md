@@ -18,7 +18,7 @@ El triac de la serie BTA08 se utiliza para controlar la alimentación en el lado
 - .
   [BTA08.PDF](https://github.com/user-attachments/files/17043512/BTA08.PDF)
 
-####Specs necesarias para cambiarlo:
+### Specs necesarias para cambiarlo:
 - **Voltaje de bloqueo inverso/repetitivo**: ≥ 800V
 - **Corriente máxima**: ≥ 8A
 - **Sensibilidad de compuerta**: similar a la del BTA08 para garantizar una activación adecuada.
