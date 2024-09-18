@@ -23,3 +23,22 @@ El triac de la serie BTA08 se utiliza para controlar la alimentación en el lado
 - **Corriente máxima**: ≥ 8A
 - **Sensibilidad de compuerta**: similar a la del BTA08 para garantizar una activación adecuada.
 
+### 2. **Optoacoplador MOC3020**
+El MOC3020 proporciona aislamiento entre el circuito de control de bajo voltaje y el circuito de AC de alto voltaje. Está diseñado para disparar el triac de manera segura.
+
+- **Voltaje máximo**: 400V
+- **Corriente directa máxima**: 60mA
+- .
+[MOC3020.PDF](https://github.com/user-attachments/files/17043585/MOC3020.PDF)
+
+### Specs necesarias para cambiarlo:
+
+- **Voltaje de salida**: ≥ 400V
+- **Corriente de entrada directa**: ≤ 60mA
+- **Tipo de acople**: compatible con triac, como los modelos MOC3021, MOC3022 o MOC3023.
+  
+## PCB
+![image](https://github.com/user-attachments/assets/6b0cd7a1-25a2-4873-a320-1d5beb2c02fa)
+
+
+
