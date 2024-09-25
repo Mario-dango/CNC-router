@@ -5,6 +5,10 @@ Versión: [7.0.11](https://downloads.kicad.org/kicad/windows/explore/stable/down
 
 FlatCAM:
 Versión: [8.5](https://bitbucket.org/jpcgt/flatcam/downloads/FlatCAM-8.5.zip)
+
+Arduino:
+Versión: [2.2.1](https://www.arduino.cc/en/software). Versiones más recientes deberían de funcionar.
+
 # Áreas
 
 ## Kicad
