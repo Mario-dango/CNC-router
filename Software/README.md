@@ -14,3 +14,7 @@ Aqui aprenderemos a exportar archivos Gerber y Excellon para poder utilizarlos e
 ## FlatCAM
 
 Aquí aprenderems a utilizar el FlatCAM, donde prepararemos los diseños de los circuitos para luego ser fabricados en la CNC.
+
+## Arduino
+
+Funcionamiento del código de Arduino y el CNC Shield
