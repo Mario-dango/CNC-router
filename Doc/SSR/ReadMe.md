@@ -29,4 +29,4 @@ Tuvimos algunos inconvenientes para conseguir las herramientas necesarias para e
 Seguimos con el tercer intento de la placa. Hicimos algunas mejoras, como agregar una capa de cobre en la parte de baja potencia para no gastar tanto ácido y más espacio para los huecos de soporte. Revisamos el diseño antes de hacer todo el proceso, pero cuando pasamos la placa por el ácido, el grabado salió mal y se comió las pistas, por lo que esa placa no sirvió.
 
 ## Semana 6:
-hicimos una nueva placa la soldamos y funciono perfectamente, tambien instalamos la placa en la cnc 
+Debido al problema con la anterior placa, la cual no era "salvable", realizamos una nueva placa. Esta vez salió bien el grabado y pudimos continuar con el soldado de los componentes. También reforzamos las pistas y arreglamos unos cortos. Y al final funcionando todo perfectamente. Ahora se está realizando el diseño 3d de una caja para el PCB y asegurarlo ya a la maquina CNC.
