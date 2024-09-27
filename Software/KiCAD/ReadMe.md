@@ -8,6 +8,8 @@ Luego de diseñar nuestra PCB, necesitaremos exportar ciertos archivos necesario
 
 Una vez tenemos nuestra PCB, entraremos a "File", dentro de este, en "Fabrication Outputs" seleccionaremos "Gerber(.gbr)".
 
+![GRB1](https://github.com/user-attachments/assets/3459444c-70cc-4b97-8a11-9c8aae53d16f)
+
 #### Configuración
 
 **Plot format:** Tipo de archivo a generar. Nosotros usamos Gerber.
