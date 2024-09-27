@@ -1,6 +1,8 @@
 # CNC-router
 Proyecto para dejar a punto la CNC del colegio, con el fin de producir PCB's de manera más eficiente y *ecofriendly*.
 
+![CNC](https://github.com/user-attachments/assets/ed26c6da-7bac-4b92-a0e1-64fb86c2e92e)
+
 ## Áreas
 Se divide el proyecto en áreas con el fin de poder enfocar de manera individual cada problema por separado y luego integrarlo.
 
