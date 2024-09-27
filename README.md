@@ -8,7 +8,7 @@ Se divide el proyecto en áreas con el fin de poder enfocar de manera individual
 También integrando la parte de **Firmware**, 
 
 ### SFC
-Area donde se explica la 
+Area donde se explica la1
 
 ### SSR
 
