@@ -14,4 +14,6 @@ Area donde se explica la
 
 
 ## Diagrama de flujo 
-Este diagrama explica el proceso para la CNC funcione 
+Este diagrama explica el proceso para la CNC funcione.
+
+![puto](https://github.com/user-attachments/assets/b129e7a0-65be-45ea-9fd6-e332c59b4c88)
