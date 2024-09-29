@@ -12,6 +12,8 @@ Una vez tenemos nuestra PCB, entraremos a "File", dentro de este, en "Fabricatio
 
 #### Configuración
 
+![image](https://github.com/user-attachments/assets/764f7d1c-f3f4-4b46-84d7-7ec784fed6d9)
+
 **Plot format:** Tipo de archivo a generar. Nosotros usamos Gerber.
 
 **Output directory:** Carpeta en la que se generan los archivos. Si empieza con “.” es una dirección relativa, y la carpeta estará dentro de la carpeta del proyecto.
@@ -105,3 +107,6 @@ Supress trailing zeros: Esta opción suprime los ceros a la derecha de los núme
 
 Keep zeros: Esta opción mantiene todos los ceros a la izquierda y a la derecha en los números. Por ejemplo, 005 se mantendría como 005, y 1,500 se mantendría como 1,500.
 
+## Visualizar archivos gerber dentro de KiCAD
+
+![image](https://github.com/user-attachments/assets/15c6982c-09f5-4e3c-ab84-0874b40eb4fa)
