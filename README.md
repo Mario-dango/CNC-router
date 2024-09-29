@@ -7,7 +7,7 @@ Proyecto para dejar a punto la CNC del colegio, con el fin de producir PCB's de 
 Se divide el proyecto en áreas con el fin de poder enfocar de manera individual cada problema por separado y luego integrarlo.
 
 ### Software
-También integrando la parte de **Firmware**, explica el funcionamiento de las distintas aplicaciones y recursos utilizados,
+También integrando la parte de **Firmware**, explica el funcionamiento de las distintas aplicaciones y recursos utilizados.
 
 ### SFC
 Area donde se explica el funcionamiento de los sensores de fin de carrera, su disposición, forma de conexión, y demás información importante.
