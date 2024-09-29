@@ -7,16 +7,17 @@ Proyecto para dejar a punto la CNC del colegio, con el fin de producir PCB's de 
 Se divide el proyecto en áreas con el fin de poder enfocar de manera individual cada problema por separado y luego integrarlo.
 
 ### Software
-También integrando la parte de **Firmware**, 
+También integrando la parte de **Firmware**, explica el funcionamiento de las distintas aplicaciones y recursos utilizados,
 
 ### SFC
-Area donde se explica la1
+Area donde se explica el funcionamiento de los sensores de fin de carrera, su disposición, forma de conexión, y demás información importante.
 
 ### SSR
 
+Explica el uso dado al relé de estado sólido, sus aplicaciones y demás.
 
 ## Diagrama de flujo 
-Este diagrama explica el proceso para la CNC funcione.
 
+Este diagrama explica los procesos a seguir para conseguir el archivo Código G necesario para subir a la CNC.
 
-![puto2](https://github.com/user-attachments/assets/75d2d480-08bb-4801-bb90-6608de5b1c9b)
+![fotazo](https://github.com/user-attachments/assets/75d2d480-08bb-4801-bb90-6608de5b1c9b)
