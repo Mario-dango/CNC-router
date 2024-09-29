@@ -19,6 +19,6 @@ Aqui aprenderemos a exportar archivos Gerber y Excellon para poder utilizarlos e
 
 Aquí aprenderems a utilizar el FlatCAM, donde prepararemos los diseños de los circuitos para luego ser fabricados en la CNC.
 
-## Arduino
+## Universal G-Code Sender
 
-Funcionamiento del código de Arduino y el CNC Shield
+Funcionamiento del Software de UGS, para transmitir nuestro G-Code al arduino de la CNC.
