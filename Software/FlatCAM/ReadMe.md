@@ -9,6 +9,8 @@ FlatCAM es una aplicación para preparar diseños de circuitos impresos para ser
 Dentro de files, en Open Gerber se seleccionan los archivos ya exportados de KiCad, específicamente sus layers F_Cu.gbr o B_Cu.gbr.
 Luego se deberá seleccionar el apartado de Open Excellon y de allí el archivo terminado en PTH.drl.
 
+![image](https://github.com/user-attachments/assets/956119cf-d720-4c9e-aca8-501d38e2e0e9)
+
 ## Generación de G-CODE
 
 ### Selección del Archivo
