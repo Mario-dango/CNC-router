@@ -8,6 +8,9 @@ Este grupo tiene como propósito la planificación y realización de: la ubicaci
 
 El modelo de placa que utilizamos es el [Optical Limit Sensor Endstop Reprap 3D Ramps 1.4](https://botland.store/limit-sensors-for-3d-printers/2659-optical-limit-sensor-endstop-reprap-3d-ramps-14-5904422359195.html#). Que utiliza el sensor [**TCST2103**](https://www.alldatasheet.es/datasheet-pdf/pdf/26411/VISHAY/TCST2103.html). 
 
+![image](https://github.com/user-attachments/assets/2927b938-49a8-494d-b053-6a92b06d66e7)
+
+
 ### TCST2103
 
 Este es un sensor PullDown normalmente abierto
