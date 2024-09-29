@@ -23,3 +23,5 @@ El siguiente paso será conectarnos con la CNC.  En la parte superior izquierda 
 ![image](https://github.com/user-attachments/assets/d18ec2f1-d5c9-471d-aa37-4544badc6afa)
 
 Cuando completemos estos pasos podremos controlar manualmente nuestra máquina y ejecutar nuestro código. La interfaz nos permitirá monitorear el estado de la CNC y hacer correcciones en tiempo real.
+
+Para más información entrar [aquí](https://github.com/winder/Universal-G-Code-Sender/wiki/Usage).
