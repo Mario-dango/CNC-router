@@ -45,7 +45,7 @@ Tiempo de encendido/apagado: 10 µs encendido / 8 µs apagado.
 
 ## Pines de alimentación.
 
-Debido a un problema con la cantidad de pines de alimentación que el shield que la CNC poseia, se tuvo que armar una placa aparte para poder conectar todos los VCC y GND.
+Debido a un problema con la cantidad de pines de alimentación que el shield que la CNC poseia, se tuvo que armar una placa aparte para poder conectar todos los cables de los sensores a el Shield.
 
 ![IMG-20240923-WA0002](https://github.com/user-attachments/assets/2bf7665b-61c3-4233-892c-3ec93471a5d7)
 ![IMG-20240923-WA0001](https://github.com/user-attachments/assets/9aa0ff8a-7539-438b-9a1f-01d96179be53)
