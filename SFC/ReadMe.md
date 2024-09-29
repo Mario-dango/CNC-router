@@ -20,16 +20,27 @@ Esto significa que cuando detecta el banderín vamos a tener 1 y cuando no detec
 **Características**
 
 Tipo de sensor: Sensor óptico transmisivo.
+
 Dimensiones: 24.5 mm (largo) x 6.3 mm (ancho) x 10.8 mm (alto).
+
 Distancia del espacio entre emisor y receptor: 3.1 mm.
+
 Corriente de salida típica: 4 mA.
+
 Filtro de bloqueo de luz diurna: Integrado.
+
 Longitud de onda del emisor: 950 nm (infrarrojo).
+
 Tensión de colector-emisor (máxima): 70 V.
+
 Tensión de emisor-colector: 7 V.
+
 Corriente de colector pico: 200 mA.
+
 Temperatura de operación: -55°C a +85°C.
+
 Capacidad de disipación de potencia: 250 mW.
+
 Tiempo de encendido/apagado: 10 µs encendido / 8 µs apagado.
 
 ## Pines de alimentación.
