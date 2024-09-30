@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Este grupo tiene como propósito la planificación y realización de: la ubicación de los sensores de carreras, el diseño y armado de los soportes para los sensores, y como agregar estos sensores al shield de la CNC.
+Este grupo tiene como propósito la planificación y realización de: la ubicación de los sensores fin de carreras, el diseño y armado de los soportes para los sensores, y como agregar estos sensores al shield de la CNC.
 
 ## Modelo utilizado
 
