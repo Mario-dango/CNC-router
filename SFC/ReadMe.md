@@ -15,7 +15,7 @@ El modelo de placa que utilizamos es el [Optical Limit Sensor Endstop Reprap 3D 
 
 Este es un sensor PullDown, normalmente abierto.
 
-Esto significa que cuando detecta el banderín vamos a tener 1 y cuando no detecta el banderín vamos a tener 0.  
+Esto significa que, cuando el banderín detecta vamos a tener 1 y cuando el banderín no detecta vamos a tener 0.  
 
 **Características**
 
