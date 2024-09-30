@@ -45,14 +45,14 @@ Tiempo de encendido/apagado: 10 µs encendido / 8 µs apagado.
 
 ## Pines de alimentación.
 
-Debido a un problema con la cantidad de pines de alimentación que el shield que la CNC poseia, se tuvo que armar una placa aparte para poder conectar todos los cables de los sensores a el Shield.
+Debido a un problema con la cantidad de pines de alimentación que el shield de la CNC poseia, se tuvo que armar una placa aparte para poder conectar todos los cables de los sensores al Shield.
 
 ![IMG-20240923-WA0002](https://github.com/user-attachments/assets/2bf7665b-61c3-4233-892c-3ec93471a5d7)
 ![IMG-20240923-WA0001](https://github.com/user-attachments/assets/9aa0ff8a-7539-438b-9a1f-01d96179be53)
 
 ## Soportes.
 
-Los soportes para los sensores fin de carrera son elementos cruciales en la instalación de sistemas automatizados. Estos garantizan que los sensores estén correctamente posicionados y alineados, lo que es fundamental para el funcionamiento preciso de la máquina.
+Los soportes para los sensores fin de carrera, son elementos cruciales en la instalación de sistemas automatizados. Estos garantizan que los sensores estén correctamente posicionados y alineados, lo que es fundamental para el funcionamiento preciso de la máquina.
 
 Para crear estos soportes, se midieron las ubicaciones y tamaños correspondientes en cada uno de los ejes de coordenadas, luego se realizaron los soportes a partir del programa de modelado 3D [Tinkercad](https://www.tinkercad.com/)
 , y se imprimieron con PLA y ABS. Para el laminado de la impresion se utilizo el programa [Bambu Lab](https://bambulab.com/en-us/download/studio).
