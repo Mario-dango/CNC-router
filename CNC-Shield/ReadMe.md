@@ -10,7 +10,7 @@ Interfaz de Conexión: Se monta sobre un Arduino, permitiendo que este controle 
 
 Alimentación: Conecta a una fuente de alimentación externa (12V a 36V) para alimentar los motores y el Arduino.
 
-Control de Motores: Los drivers (como A4988 o DRV8825) se instalan en el shield y gestionan el movimiento de los motores paso a paso. El Arduino envía señales a los pines de los drivers para activar el movimiento.
+Control de Motores: Los drivers (como A4988 o DRV8825) se instalan en el shield y gestionan el movimiento de los motores paso a paso, donde el Arduino envía señales a los pines de los drivers para activar el movimiento.
 
 Señales de Control: Los pines D2 a D7 controlan los motores: D2-D4: Pines de paso para los ejes X, Y y Z. D5-D7: Pines de dirección para los ejes X, Y y Z.
 
@@ -23,17 +23,17 @@ Interfaz de Usuario: Se pueden conectar botones físicos para iniciar, pausar y 
 Ejecución de Comandos: El firmware Grbl interpreta comandos G-code desde un software de control, dirigiendo el movimiento de la máquina y la activación del husillo.
 
 ## Driver
-Un driver para CNC es un componente electrónico que actúa como intermediario entre el controlador CNC y los motores (generalmente paso a paso o servomotores) que mueven las partes mecánicas de la máquina. Su función principal es recibir las señales de control (pulsos y dirección) desde el controlador y convertirlas en las corrientes y voltajes necesarios para accionar los motores. Los drivers que estamos utilizando para cnc shield son los A4988
+Un driver para CNC es un componente electrónico que actúa como intermediario entre el controlador CNC y los motores (generalmente paso a paso o servomotores) que mueven las partes mecánicas de la máquina. Su función principal es recibir las señales de control (pulsos y dirección) desde el controlador y convertirlas en las corrientes y voltajes necesarios para accionar los motores. Los drivers que estamos utilizando son los A4988
 
 ![image](https://github.com/user-attachments/assets/a357146e-324d-4fac-b210-b60c5b15e47a)
 
 ### 4.2.1 Funciones principales del driver CNC:
 
-Control de corriente: El driver regula la corriente suministrada al motor para protegerlo y garantizar un movimiento suave.
+Control de corriente: Este regula la corriente suministrada al motor para protegerlo y garantizar un movimiento suave.
 
 Ajuste de microstepping: En motores paso a paso, el driver puede dividir cada paso en fracciones más pequeñas, proporcionando mayor precisión de posicionamiento.
 
-Protección: Los drivers protegen el motor de sobrecorriente, sobrecalentamiento o cortocircuitos.
+Protección: Estos protegen al motor de sobrecorriente, sobrecalentamiento o cortocircuitos.
 
 ![image](https://github.com/user-attachments/assets/38773eaf-5d04-47a1-8cee-0c96fc1ad10d)
 
